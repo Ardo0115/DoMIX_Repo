@@ -1,0 +1,10 @@
+CR_MR/wandb/*
+*.pyc
+*.sh
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.json
+*.txt
+
