@@ -1,4 +1,4 @@
-# DoMIX: Domain-Mixed Adapter Framework for Efficient Continual Learning
+# DoMIX: An Efficient Framework for Exploiting Domain Knowledge in Fine-Tuning
 
 This repository contains the official implementation of **DoMIX**, a continual learning framework based on modular LoRA adapters. This work was conducted during the first year of the Samsung-SNU industry-academic collaboration project:  
 **"On-device few-shot continual learning with lightweight adapters."**
