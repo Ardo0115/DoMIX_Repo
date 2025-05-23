@@ -40,4 +40,4 @@ During the first year, we proposed **DoMIX**, a novel adapter architecture that:
 
 - Paper accepted to **ACL 2025 Main Conference**
 - This project was developed by **M.IN.D Lab @ Seoul National University** in collaboration with the **Samsung MX Language AI Team**  
-  Author: Dohoon Kim (dohoon.kim@snu.ac.kr)
+  Contact: Dohoon Kim (dohoon.kim@snu.ac.kr)
